@@ -1,6 +1,6 @@
 ---
 # version
-elastichq_version: "latest"
+elastichq_version: "release-v3.5.4"
 
 # elasticsearch_url
 elasticsearch_url: http://65.0.31.49:9200
