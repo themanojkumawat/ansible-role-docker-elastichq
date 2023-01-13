@@ -1,0 +1,11 @@
+---
+# version
+elastichq_version: "latest"
+
+# elasticsearch_url
+elasticsearch_url: http://65.0.31.49:9200
+
+# elastichq network settings
+elastichq_port: 5000
+elastichq_host: "0.0.0.0"
+elastichq_bind_host: "{{ elastichq_host }}"
